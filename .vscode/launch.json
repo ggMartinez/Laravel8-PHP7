@@ -12,15 +12,12 @@
             },
         },
         {
-            "version": "0.2.0",
-            "configurations": [
-                {
-                    "name": "XDebug - Local",
-                    "type": "php",
-                    "request": "launch",
-                    "port": 9003
-                }
-            ]
+            "name": "XDebug - Local",
+            "type": "php",
+            "request": "launch",
+            "port": 9003
+              
+            
         }
     ]
 }
